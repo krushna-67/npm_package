@@ -1,6 +1,6 @@
 {
   "name": "replycraft",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight Express.js toolkit for standardized API responses, centralized error handling, pagination, and request tracking.",
   "main": "./src/index.cjs",
   "module": "./src/index.mjs",
